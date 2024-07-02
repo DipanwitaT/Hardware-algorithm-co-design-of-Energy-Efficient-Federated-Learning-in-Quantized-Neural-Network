@@ -1,6 +1,6 @@
 # Hardware-algorithm-co-design-of-Energy-Efficient-Federated-Learning-in-Quantized-Neural-Network
 Setup:
-You need a Linux platform to use some of the libraries, such as pyRAPL. Some libraries will not work in virtual machine-based Linux. It would help if you had the Linux based PC to run this experiment. 
+You need a Linux platform to use some of the libraries, such as pyJouls, pyRAPL. Some libraries will not work in virtual machine-based Linux. It would help if you had the Linux-based PC to run this experiment. 
 
 
 Original Paper:
