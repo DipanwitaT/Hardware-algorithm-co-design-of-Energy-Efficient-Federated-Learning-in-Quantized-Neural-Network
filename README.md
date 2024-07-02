@@ -1,0 +1,1 @@
+# Hardware-algorithm-co-design-of-Energy-Efficient-Federated-Learning-in-Quantized-Neural-Network
